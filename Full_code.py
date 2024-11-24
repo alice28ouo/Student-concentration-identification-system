@@ -24,7 +24,7 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
 #openAi api
-openai.api_key = 'sk-qf90tgjl7tFROZie6oyUhkLSmh8qre-eS1TMI4IJ88T3BlbkFJo12P8RgQbNa9PBQgZhtEyzxw8DhRn56ivs6NEujj4A'
+openai.api_key = ''
 
 #動作辨識
 mp_drawing = mp.solutions.drawing_utils
